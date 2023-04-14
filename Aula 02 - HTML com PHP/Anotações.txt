@@ -1,0 +1,1 @@
+O HTML, CSS e O JS são rodados localmente, enquanto scripts php são processados pelo servidor web.

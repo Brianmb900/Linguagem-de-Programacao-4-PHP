@@ -1,0 +1,4 @@
+Por padrão o servidor web porcura primeiro o arquivo chamado Index e entre os arquivos com este nome primeiro o de extensão .html
+O servidor pode ser configurado para procurar outro arquivo e outra extensão primeiro.
+No apache costuma-se mudar o padrão de .html para .php
+Caso nenhum arquivo chamado Index seja encontrado o servidor irá apenas abrir a pasta e deixar você selecionar qual arquivo irá ser lido

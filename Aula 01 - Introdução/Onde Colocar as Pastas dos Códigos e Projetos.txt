@@ -1,0 +1,1 @@
+Colocar em uma pasta criada dentro do htdocs - Acessar htdocs pelo xampp clicando no explorer.
